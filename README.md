@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# Open-Source Analysis in Neuroscience, Atlanta
 
-You can use the [editor on GitHub](https://github.com/NickleDave/open-analysis-atlanta/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hands-on tutorials teaching you how to analyze data with open-source software, with a focus on neuroscience
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Saturday, April 8th, 2017
 
-### Markdown
+## [Emory School of Medicine](https://www.google.com/maps/dir/''/1648+Pierce+Dr+NE,+Atlanta,+GA+30322/@33.7938878,-84.3242572,17z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x88f506fa0c2fe91d:0x39cfe7f977692e9b!2m2!1d-84.3220685!2d33.7938878?hl=en)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### sponsored by the [Computational Neuroscience Training Program grant](http://compneurosci.college.emory.edu/index.html)
 
-```markdown
-Syntax highlighted code block
+## Schedule
 
-# Header 1
-## Header 2
-### Header 3
+*Please see below for abstracts*
 
-- Bulleted
-- List
+8:30-9:00. Light breakfast
 
-1. Numbered
-2. List
+Time | Room 120 | Room 130
+--- | --- | ---
+9:00-10:30 |  **Introduction to plotting in R using ggplot2.** Hasse Walum. | **Models of calcium imaging with generative adversarial neural nets using GANDLF.** Ben Bolte.
+10:45-12:15 | **Sex differences in gene expression as shown with R and the edgeR package.** David Sinkiewicz. | **Not Just For Python: Using Matlab In Jupyter Notebooks for Data Analysis and Visualization.** Rhett Morissette.
 
-**Bold** and _Italic_ and `Code` text
+12:15-1:00. Lunch with speakers (requires RSVP through Eventbrite)
 
-[Link](url) and ![Image](src)
-```
+Time | Room 120 | Room 130
+--- | --- | ---
+1:00-2:30 | **Using simulation in R to calculate statistical power.** Hasse Walum. | **A TensorFlow tutorial: Cross-Cultural Facial Emotion Representation Learning Using Convolutional Networks.** Safoora Yousefi.
+2:45-4:15 | **Generalized Linear Models Tutorial for Neuroscientists using the Python package statsmodels.** David Hofmann. | **Intro to Machine Learning in Python with scikit-learn.** David Nicholson.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+Time | Room 110
+--- | ---
+1:00-2:30 | **Configurable Pipeline for the Analysis of Connectomes (C-PAC) tutorial.** Cameron Craddock.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NickleDave/open-analysis-atlanta/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## abstracts
