@@ -1,0 +1,3 @@
+[submodule "sessions/intro-ml-sklearn"]
+	path = sessions/intro-ml-sklearn
+	url = https://github.com/NickleDave/intro-ml-sklearn
