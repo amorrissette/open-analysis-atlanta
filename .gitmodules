@@ -1,3 +1,6 @@
 [submodule "sessions/intro-ml-sklearn"]
 	path = sessions/intro-ml-sklearn
 	url = https://github.com/NickleDave/intro-ml-sklearn
+[submodule "EWIN-Code-Bootcamp-2017"]
+	path = EWIN-Code-Bootcamp-2017
+	url = https://github.com/amorrissette/EWIN-Code-Bootcamp-2017
